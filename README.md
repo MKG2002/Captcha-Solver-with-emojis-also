@@ -1,1 +1,1 @@
-# Captcha-Solver-with-emojis-also
+# Captcha detection (alphabets and emojis)
